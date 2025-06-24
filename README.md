@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/224d0b40-bdb1-40d5-960d-d6f6744d1cab/thumbnail" >
+</p>
+
 <!--
 **FlameSoulis/FlameSoulis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
